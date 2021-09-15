@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/266/A
 number_of_stones = int( input() );
 stones = input();
 streak = 0;

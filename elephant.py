@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/617/A
 distance = int( input() );
 
 if distance <= 5:

@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/791/A
 two_bears = input().split();
 smaller_bear = int(two_bears[0]);
 bigger_bear = int(two_bears[1]);

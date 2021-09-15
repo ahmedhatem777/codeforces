@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/50/A
 m_n = input().split();
 size = int(m_n[0]) * int(m_n[1]);
 

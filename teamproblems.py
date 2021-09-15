@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/231/A
 iterations = int( input() );
 i = 0;
 to_solve = 0;
@@ -10,4 +11,3 @@ while i < iterations:
     i += 1;
 
 print(to_solve);
-

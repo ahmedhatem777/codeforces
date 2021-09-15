@@ -1,6 +1,6 @@
+# https://codeforces.com/problemset/problem/71/A
 iterations = int(input());
 i = 0;
-''
 
 while i < iterations:
     word = input();

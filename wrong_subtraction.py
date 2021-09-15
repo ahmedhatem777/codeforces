@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/977/A
 n_k = input().split();
 number =  int( n_k[0] );
 subtract = int( n_k[1] );

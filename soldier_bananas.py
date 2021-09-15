@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/546/A
 k_n_w = input().split();
 initial_cost = int(k_n_w[0]);
 money = int(k_n_w[1]);

@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/112/A
 first_string = input();
 second_string = input();
 
